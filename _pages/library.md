@@ -4,6 +4,6 @@ title: library
 permalink: /library/
 ---
 
-## 区块链基础知识库
+## 区块链
 
-https://e-fengsorganization.gitbook.io/blockchain_bases/
+[区块链基础知识库](https://e-fengsorganization.gitbook.io/blockchain_bases/) 
