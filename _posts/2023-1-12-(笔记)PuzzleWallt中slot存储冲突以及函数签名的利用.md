@@ -40,7 +40,7 @@ contract PuzzleProxy is UpgradeableProxy {
 
 解决方法是  PuzzleProxy 应该 和 PuzzleWallet  的变量应该同步，即使增加pendingAdmin和admin，也要如下：
 
-````soli
+````solidity
 contract PuzzleProxy is UpgradeableProxy {
     address public owner; // slot 0 
     uint256 public maxBalance; // slot 1
