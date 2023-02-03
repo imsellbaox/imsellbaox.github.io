@@ -35,8 +35,8 @@ Spring Boot 基于 Spring 开发，它致力于帮助Spring基础框架开发更
 
 ### SpringBoot源码分析
 
-[SpringBoot自动装配原理](https://blog.csdn.net/VB551/article/details/121299648?spm=1001.2014.3001.5501)
+[SpringBoot自动装配原理](https://imsellbaox.github.io/SpringBoot%E5%9F%BA%E7%A1%80%E6%A0%B8%E5%BF%83/)
 
 ### SpringBoot基础核心
 
-[SpringBoot基础核心](https://blog.csdn.net/VB551/article/details/121347549?spm=1001.2014.3001.5501)
+[SpringBoot基础核心](https://imsellbaox.github.io/SpringBoot%E8%87%AA%E5%8A%A8%E8%A3%85%E9%85%8D%E5%8E%9F%E7%90%86/)
